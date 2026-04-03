@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic
+requests
+clickhouse-connect
+llama-index
+llama-index-embeddings-huggingface
